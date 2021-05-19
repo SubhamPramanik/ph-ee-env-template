@@ -1,65 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-05-16T01:49:32.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="KWSENgsTweG4nOrP29pm" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-19T23:13:13.087Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="nacN9Q-H8hB2_nw8jP12" version="14.6.13" type="github">
   <diagram id="86O7ObyHru7bCkvp2EKh" name="Page-1">
-    <mxGraphModel dx="1298" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2148" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-1" target="fNtgI5EtzNhtgbrsN9j_-2">
+        <mxCell id="UXLbQIDhupjbOaFaJYki-6" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="620" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fNtgI5EtzNhtgbrsN9j_-1" target="fNtgI5EtzNhtgbrsN9j_-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-1" target="fNtgI5EtzNhtgbrsN9j_-4">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fNtgI5EtzNhtgbrsN9j_-1" target="fNtgI5EtzNhtgbrsN9j_-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-1" value="Channel Connector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-1" value="Channel Connector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="30" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-2" target="fNtgI5EtzNhtgbrsN9j_-3">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fNtgI5EtzNhtgbrsN9j_-2" target="fNtgI5EtzNhtgbrsN9j_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-2" value="Batch Processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-2" value="Bulk Processor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.91;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-3" target="fNtgI5EtzNhtgbrsN9j_-11">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.91;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fNtgI5EtzNhtgbrsN9j_-3" target="fNtgI5EtzNhtgbrsN9j_-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-3" target="fNtgI5EtzNhtgbrsN9j_-22">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fNtgI5EtzNhtgbrsN9j_-3" target="fNtgI5EtzNhtgbrsN9j_-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-3" value="Payments Topic" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="100" height="60" as="geometry" />
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-3" value="Payments Type Topic" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="400" y="395" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-4" value="S3" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="290" width="60" height="60" as="geometry" />
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-4" value="Object Storage" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="210" y="230" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-5" value="GET /batch?url=&amp;lt;S3 Link&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-5" value="GET /bulk?url=&amp;lt;Data Link&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="470" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-11" target="fNtgI5EtzNhtgbrsN9j_-12">
+        <mxCell id="UXLbQIDhupjbOaFaJYki-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-11" target="fNtgI5EtzNhtgbrsN9j_-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-11" value="SQL Consumer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-11" value="SQL Consumer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="530" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-12" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="710" y="140" width="60" height="80" as="geometry" />
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-12" value="SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="710" y="200" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-16" value="Zeebe" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-16" value="Zeebe" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="850" y="375" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-20" value="Either a single Payments Topic&lt;br&gt;OR&lt;br&gt;Individual payment type Topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="470" width="180" height="50" as="geometry" />
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-20" value="Kafka topic which &lt;br&gt;queues payments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="395" y="480" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-21" value="Parse CSV, format data &lt;br&gt;and&lt;br&gt;&amp;nbsp;publish to Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-21" value="Parse CSV, format data &lt;br&gt;and&lt;br&gt;&amp;nbsp;publish to Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="490" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fNtgI5EtzNhtgbrsN9j_-22" target="fNtgI5EtzNhtgbrsN9j_-16">
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fNtgI5EtzNhtgbrsN9j_-22" target="fNtgI5EtzNhtgbrsN9j_-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-22" value="Workflow Initiator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="400" width="130" height="60" as="geometry" />
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-22" value="Workflow Initiator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="605" y="400" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fNtgI5EtzNhtgbrsN9j_-23" value="Either repurpose channel connector&lt;br&gt;to initiate payments&lt;br&gt;OR&lt;br&gt;create a new connector for the&lt;br&gt;sole purpose of initiating payment specific&lt;br&gt;&amp;nbsp;workflows (Mojaloop, GSMA, Afromoney)&lt;br&gt;AND&lt;br&gt;make channel connector publish to this topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="470" width="250" height="120" as="geometry" />
+        <mxCell id="fNtgI5EtzNhtgbrsN9j_-23" value="- Initiate payment specific workflows&lt;br&gt;- Throttle workflow requests based on&lt;br&gt;resources availability&lt;br&gt;- Either separate service / &lt;br&gt;integrated with Chanel connector / &lt;br&gt;integrate with individual payment connectors" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="545" y="470" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UXLbQIDhupjbOaFaJYki-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UXLbQIDhupjbOaFaJYki-1" target="fNtgI5EtzNhtgbrsN9j_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UXLbQIDhupjbOaFaJYki-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UXLbQIDhupjbOaFaJYki-5" value="Azure Blob Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UXLbQIDhupjbOaFaJYki-7" value="Staging bulk payments" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="590" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
